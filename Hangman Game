@@ -1,4 +1,4 @@
-import random
+
 
 def hangman():
     word = random.choice(["tiger", "superman", "thor", "doraemon", "avenger", "water", "stream"])
