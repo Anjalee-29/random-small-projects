@@ -24,7 +24,7 @@ python love_calculator.py
 
 ---
 
-### 2. 🎙️ Voice Assistant (Jarvis)
+### 2. 🎙️ Voice Assistant (Mini_Jarvis)
 A voice-controlled assistant that responds to spoken commands using your microphone.
 
 **Features:**
